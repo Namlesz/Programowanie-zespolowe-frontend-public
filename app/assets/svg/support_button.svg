@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.6962194mm"
+   height="2.2894487mm"
+   viewBox="0 0 2.6962195 2.2894488"
+   version="1.1"
+   id="svg43768"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="support_button.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43770"
+     pagecolor="#262626"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.1241863"
+     inkscape:cx="35.127528"
+     inkscape:cy="30.639011"
+     inkscape:window-width="993"
+     inkscape:window-height="1008"
+     inkscape:window-x="2838"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs43765">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath863636">
+      <path
+         id="path863638"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 33.212152,58.404649 c 0,87.310521 0,174.621041 0,261.931561 H 160.73668 c 0,-45.51553 0,-91.03106 0,-136.5466 V 58.404649 Z"
+         inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\wireframes\ready\home_wireframes_flow_2000dpi.png"
+         inkscape:export-xdpi="1999.9958"
+         inkscape:export-ydpi="1999.9958"
+         sodipodi:nodetypes="cccccc" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter128376"
+       x="-0.0319902"
+       y="-0.20205413"
+       width="1.0639803"
+       height="1.4213778">
+      <feFlood
+         flood-opacity="0.301961"
+         flood-color="rgb(53,61,104)"
+         result="flood"
+         id="feFlood128366" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite128368" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur128370" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset128372" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite128374" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix130166" />
+      <feFlood
+         id="feFlood130168"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite130170"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur130172"
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset130174"
+         dx="0"
+         dy="-0.6"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite130176"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath863525">
+      <path
+         id="path863527"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 33.21215,58.404649 c 0,87.310521 0,174.621041 0,261.931561 h 127.52452 c 0,-45.51553 0,-91.03106 0,-136.5466 V 58.404649 Z"
+         inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\wireframes\ready\home_wireframes_flow_2000dpi.png"
+         inkscape:export-xdpi="1999.9958"
+         inkscape:export-ydpi="1999.9958"
+         sodipodi:nodetypes="cccccc" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter128376-0"
+       x="-0.0319902"
+       y="-0.20205413"
+       width="1.0639803"
+       height="1.4213778">
+      <feFlood
+         flood-opacity="0.301961"
+         flood-color="rgb(53,61,104)"
+         result="flood"
+         id="feFlood128366-7" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite128368-4" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur128370-6" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset128372-2" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite128374-9" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix130166-2" />
+      <feFlood
+         id="feFlood130168-0"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite130170-1"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur130172-9"
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset130174-7"
+         dx="0"
+         dy="-0.6"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite130176-9"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#main"
+       id="linearGradient14664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82226765,0,0,0.82170268,241.49282,160.73779)"
+       x1="440.13907"
+       y1="-45.392075"
+       x2="458.64328"
+       y2="-45.392075" />
+    <linearGradient
+       id="main"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ebf0f0;stop-opacity:1;"
+         offset="0"
+         id="stop2146" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.705376,-84.063261)">
+    <g
+       id="g14662"
+       transform="matrix(0.02429411,0,0,0.02444208,56.948648,86.798185)"
+       style="stroke-width:3.47451"
+       inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\wireframes\ready\components\support_button.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g14660"
+         transform="translate(131.09372,0.61490835)"
+         style="stroke-width:3.47451">
+        <path
+           id="path14648"
+           style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:3.62837;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+           d="m 449.51385,-93.709803 c -17.57529,0 -32.12593,13.795477 -32.12411,31.411534 8.6e-4,8.074411 1.25912,14.955593 7.02503,20.293126 1.33923,1.240289 3.94606,2.63531 6.43853,3.487933 5.8983,2.017756 10.68317,1.172604 18.66055,1.172604 0.79642,0 1.57043,0.03354 2.5241,0.300011 0.95368,0.277906 2.45363,0.771522 3.1658,1.791224 1.35622,1.942296 1.39446,3.341433 1.53153,4.607028 15.25093,-2.149316 24.65542,-15.71933 24.65726,-31.110412 0.002,-17.61868 -14.30073,-31.95381 -31.87869,-31.952286 z"
+           sodipodi:nodetypes="csssscscsc"
+           inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\test3.png"
+           inkscape:export-xdpi="805.87775"
+           inkscape:export-ydpi="805.87775" />
+        <path
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient14664);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="path14650"
+           sodipodi:type="arc"
+           sodipodi:cx="449.39117"
+           sodipodi:cy="-49.939144"
+           sodipodi:rx="9.2520952"
+           sodipodi:ry="9.0941372"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           sodipodi:arc-type="slice"
+           inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\test3.png"
+           inkscape:export-xdpi="805.87775"
+           inkscape:export-ydpi="805.87775"
+           d="m 458.64327,-49.939144 a 9.2520952,9.0941372 0 0 1 -4.62605,7.875754 9.2520952,9.0941372 0 0 1 -9.25209,0 9.2520952,9.0941372 0 0 1 -4.62605,-7.875754 h 9.25209 z" />
+        <path
+           style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:8.92174;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+           d="m 449.38939,-21.818574 c -20.15232,0 -38.17613,-1.079918 -46.06235,-20.16294 -7.71191,-18.660414 -3.44193,-41.612677 10.80789,-55.89521 14.24987,-14.282656 35.71516,-18.560556 54.33351,-10.830396 18.61834,7.7294 30.77909,25.967538 30.77909,46.165854 0.001,2.517196 -2.03463,4.558887 -4.54621,4.558887 -2.51158,-4.58e-4 -4.54725,-2.041691 -4.5462,-4.558887 0,-16.538883 -9.92103,-31.417479 -25.16566,-37.746644 -15.24463,-6.32874 -32.75623,-2.83806 -44.42397,8.856544 -11.66776,11.694485 -15.15056,30.977097 -8.83602,46.256895 6.31456,15.279375 21.15924,16.23688 37.65992,16.23688 2.51073,0 2.62994,0.710239 2.63008,3.227252 -2e-4,2.516257 -0.11939,3.89146 -2.63008,3.891765 z"
+           id="path14652"
+           sodipodi:nodetypes="cssscscsssscc"
+           inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\test3.png"
+           inkscape:export-xdpi="805.87775"
+           inkscape:export-ydpi="805.87775" />
+        <rect
+           style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:3.2616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect14654"
+           width="17.191717"
+           height="27.880667"
+           x="486.16168"
+           y="-71.922813"
+           rx="6.9118409"
+           ry="6.8699985"
+           inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\test3.png"
+           inkscape:export-xdpi="805.87775"
+           inkscape:export-ydpi="805.87775" />
+        <rect
+           style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:2.18664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect14656"
+           width="11.552008"
+           height="18.648712"
+           x="-31.485975"
+           y="-453.03796"
+           rx="6.4037657"
+           ry="6.4427686"
+           transform="rotate(90)"
+           inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\test3.png"
+           inkscape:export-xdpi="805.87775"
+           inkscape:export-ydpi="805.87775" />
+        <rect
+           style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:3.2616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect14658"
+           width="17.191717"
+           height="27.880667"
+           x="395.63257"
+           y="-71.922813"
+           rx="6.9118409"
+           ry="6.8699985"
+           inkscape:export-filename="C:\DYSK_D\0studia_IIIrok\zesp\test3.png"
+           inkscape:export-xdpi="805.87775"
+           inkscape:export-ydpi="805.87775" />
+      </g>
+    </g>
+  </g>
+</svg>
